@@ -1,7 +1,7 @@
 # Marvelous
 
 ## ✅ Landing Page: 
-[Ссылка на развернутое приложение](https://github.com/mgcolossus/inet-2022-group-project)
+[Ссылка на развернутое приложение](https://react-marvel-explorer.netlify.app)
 
 ## ✅ Состав команды:
 
